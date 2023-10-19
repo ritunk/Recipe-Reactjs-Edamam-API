@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Recipe-Reactjs-Edamam-API/static/css/main.0ad67fb6.css",
+    "main.js": "/Recipe-Reactjs-Edamam-API/static/js/main.c521cd4f.js",
+    "index.html": "/Recipe-Reactjs-Edamam-API/index.html",
+    "main.0ad67fb6.css.map": "/Recipe-Reactjs-Edamam-API/static/css/main.0ad67fb6.css.map",
+    "main.c521cd4f.js.map": "/Recipe-Reactjs-Edamam-API/static/js/main.c521cd4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ad67fb6.css",
+    "static/js/main.c521cd4f.js"
+  ]
+}
